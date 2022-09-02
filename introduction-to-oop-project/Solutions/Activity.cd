@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="introduction_to_oop_project.Bird">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAQAAAIAIAAAAAABgAIAAAA=</HashCode>
+      <FileName>Models\Bird.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="introduction_to_oop_project.Pigeon">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAABAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Pigeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="introduction_to_oop_project.Penguin">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\Penguin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="introduction_to_oop_project.Parrot">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Parrot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="introduction_to_oop_project.IDance">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\IDance.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
